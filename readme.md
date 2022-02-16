@@ -2,7 +2,7 @@
 
 <p>Aqui aprendi fazer login com o google e github, tive que criar um novo projeto no google cloud platform, configurar um novo projeto com as urls permitidas, depois criei as credenciais e o projeto funcionou corretamente, no github o processo foi semelhante, criei um projeto, adicionei as urls criei as credenciais e configurei o projeto, foi minha primeira experiência com esse tipo de login.</p>
 
-<img src=""/>
+<img src="https://github.com/d8web/Mern-oauth-google-and-github/blob/master/media/Anima%C3%A7%C3%A3o.gif"/>
 
 ### Features
 
